@@ -1,0 +1,7 @@
+num=input("enter a number: ")
+perc=input("enter the percentage: ")
+x=(float(num)/100)*float(perc)
+print(x)
+print()
+print('Created by Roham:)')
+input()
